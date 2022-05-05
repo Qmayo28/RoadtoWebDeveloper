@@ -1,0 +1,26 @@
+composer require laravel-frontend-presets/tailwindcss --dev
+
+php artisan ui tailwindcss
+npm install && npm run dev
+
+php artisan make:mode Car -m
+php artisan make:controller CarsController --resource
+
+php artisan make:model CarModel
+php artisan make:model Engine -m
+
+php artisan make:model CarProductionDate -m
+
+php artisan make:model Product -m
+
+php artisan make:model CarProduct -m
+
+php artisan make:rule Uppercase
+php artisan make:request CreateValidationRequest
+
+php artisan ui tailwindcss --auth
+
+php artisan make:migration add_user_id_to_cars_table
+
+go to pixabay.com for imagesources
+
