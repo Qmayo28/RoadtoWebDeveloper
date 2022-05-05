@@ -1,0 +1,9 @@
+npm init
+
+npm install express mongoose dotenv nodemon
+
+npm install crypto-js
+
+npm install jsonwebtoken
+
+npm install cors
