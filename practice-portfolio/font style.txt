@@ -1,0 +1,16 @@
+https://fonts.google.com/specimen/Roboto
+
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;700;900&display=swap" rel="stylesheet">
+
+-add sass 
+npm add node-sass
+
+- react source icons
+https://mui.com/components/material-icons/
+npm install @material-ui/icons
+npm install @material-ui/core
+
+npm install @popperjs/core
+
+- add Itype package for text animation
+npm add itype
