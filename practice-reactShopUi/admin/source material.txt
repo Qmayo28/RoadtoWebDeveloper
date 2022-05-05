@@ -1,0 +1,35 @@
+https://fonts.google.com/specimen/Roboto
+
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;700;900&display=swap" rel="stylesheet">
+
+-add sass 
+npm add node-sass
+
+- react source icons
+https://mui.com/components/material-icons/
+npm install @material-ui/icons
+npm install @material-ui/core
+
+- add Itype package for text animation
+npm add itype
+
+-box shadow generator
+https://cssgenerator.org/box-shadow-css-generator.html
+sample:
+-webkit-box-shadow: -5px -5px 5px 33px rgba(0,0,0,0.47);
+-moz-box-shadow: -5px -5px 5px 33px rgba(0,0,0,0.47);
+
+or https://html-css-js.com/css/generator/box-shadow/
+
+-for charts
+recharts.org
+
+- npm add react-router-dom : for linking the pages
+reactrouter.com
+
+- for table design  
+npm add @material-ui/data-grid
+
+npm install axios @reduxjs/toolkit react-redux
+npm install timeago.js
+npm install firebase
