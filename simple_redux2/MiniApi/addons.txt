@@ -1,0 +1,14 @@
+add-onns
+
+npm init
+
+npm install mysql express
+
+for library
+-npm add axios
+
+for data handle
+-npm install cors
+
+node index.js
+
