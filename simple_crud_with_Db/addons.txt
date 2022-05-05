@@ -1,0 +1,7 @@
+add-onns
+
+for library
+-npm add axios
+
+for data handle
+-npm install cors
