@@ -1,0 +1,9 @@
+git clone --single-branch --branch react-mini https://github.com/safak/youtube2022.git .
+
+npm install
+npm start
+
+npm add styled-components react-router-dom
+npm add @mui/icons-material
+
+npm install @mui/material @emotion/react @emotion/styled
